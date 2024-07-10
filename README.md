@@ -18,10 +18,9 @@
 
     <h1 class="title">Yo elijo una vida sin drogas ¿y tú?</h1>
 
-    <img> <img src="(https://i.giphy.com/3oriOcC1Oc10FzdpTy.webp)"  width="500" height="300" 
-border=5px #fBBCA9; >
+    <img> <img src="https://i.giphy.com/3oriOcC1Oc10FzdpTy.webp"  width="500" height="300" >
     
-</img>
+    </img>
     
     <h2>Equipo número 6</h2>
     <ul>
@@ -50,9 +49,9 @@ border=5px #fBBCA9; >
 <h2>1.-Humanidades</h2>
 <h3>En el decálogo ético que realizamos hablamos de como prevenir las drogas a temprana edad
 todo esto por medio de la convivencia empatía,  la imposición de límites y la apreciación de uno mismo dando 10 recomendaciones para lograrlo.</h3>
+
 <img> <img src="humanidades.jfif"  width="500" height="800" 
-border=5px #fBBCA9; >
-    
+border=5px >
 </img>
 
 
@@ -60,29 +59,29 @@ border=5px #fBBCA9; >
 <h2>2.-Ciencias Sociales </h2>
 <h3>En el proyecto de ciencias sociales se hizo un cuestionario donde explicamos que son las drogas, como afectan a nuestra salud, a nuestra vida familiar y social ya que está se puede volver una adicción muy peligrosa.</h3>
 <img> <img src="sociales 1.jfif"  width="500" height="600" 
-border=5px #fBBCA9; >
+border=5px >
     
 </img>
 <img src="sociales 2.jfif"  width="500" height="600" 
-border=5px #fBBCA9; >
+border=5px >
     
 </img>
 <img src="sociales 3.jfif"  width="500" height="600" 
-border=5px #fBBCA9; >
+border=5px >
     
 </img>
 
 <h2>3.-Lengua Y Comunicacion </h2>
 <h3>En el proyecto de Lengua Y Comunicacion se hizo una reseña en base a una pelicula que hablara sobre las drogas esto a manera de prevenir a los jóvenes sobre el consumo de sustancias dañinas tanto para la salud como para la vida social y familiar.</h3>
 <img> <img src="español.jfif"  width="500" height="600" 
-border=5px #fBBCA9; >
+border=5px >
     
 </img>
 
 <h2>4.Conservacion </h2>
 <h3>En el proyecto de conservación se ponen en comparación dos cerebros diferentes uno antes de consumir drogas y otro después en ambos se puede apreciar el cambio respecto a la abstinencia y la liberación de dopamina.</h3>
 <img> <img src="conservacion.jfif"  width="500" height="600" 
-border=5px #fBBCA9; >
+border=5px >
     
 </img>
 
@@ -91,7 +90,7 @@ border=5px #fBBCA9; >
 
 (La presentacion del prototipo esta en el video, en el link se encuentra la presentacion completa con videos de la exposicion realizada en la feria de ciencias)</h3>
 <video controls autoplay> <source src="video 1.mp4"  width="500" height="600" 
-border=5px #fBBCA9; >
+border=5px >
 
 </video>
 
@@ -101,7 +100,7 @@ CLICK PARA LA PRESENTACION COMPLETA </a>
 <h2>6-Pensamiento Matematico</h2>
 <h3>En el proyecto de la UAC Pensamiento Matematico realizamos una tabla comparativa de instituciones que ayudaran a los jovenes inmiscuidos en las drogas sacando obteniendo estadisticos.</h3>
 <img> <img src="PM.jfif"  width="500" height="800" 
-border=5px #fBBCA9; >
+border=5px >
     
 </img>
 
