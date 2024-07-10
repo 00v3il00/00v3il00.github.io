@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <style>
@@ -19,7 +18,7 @@
 
     <h1 class="title">Yo elijo una vida sin drogas ¿y tú?</h1>
 
-    <img> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhzeTgwaWNjYnB6dTlmOHQxMjl5bnJiZzhpYzVpdm5oZDlia2tmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriOcC1Oc10FzdpTy/giphy.webp"  width="500" height="300" 
+    <img> <img src="(https://i.giphy.com/3oriOcC1Oc10FzdpTy.webp)"  width="500" height="300" 
 border=5px #fBBCA9; >
     
 </img>
